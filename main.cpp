@@ -79,7 +79,7 @@ for(int row = 0; row < matrix.size(); row++)
 {
   for(int column = 0; column < matrix[row].size(); column++)
   {
-    cout<<matrix[row][column];
+    cout<<matrix[row][column]<<" ";
   }
 cout<<endl;
 }
